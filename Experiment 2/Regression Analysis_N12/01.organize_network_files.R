@@ -1,6 +1,6 @@
 # Preprocess data from lexical diffusion game
 # Date: 2024-10
-# Authors: Eylul Eski
+# Authors:
 library(readxl)
 library(openxlsx)
 library(dplyr)
