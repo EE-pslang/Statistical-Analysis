@@ -1,4 +1,4 @@
-# Authors: Eylul Eski, Luca Onnis
+# Authors: 
 # Date: 2024-10-28
 
 library(tidyverse)
