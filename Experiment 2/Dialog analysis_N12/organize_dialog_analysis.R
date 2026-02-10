@@ -3,7 +3,7 @@
 ################################################################################
 
 
-base_dir <- "C:/Users/eylul/Desktop/MatchingFigures-Stable/Network data"
+base_dir <- "C:/Users/e/Desktop/MatchingFigures-Stable/Network data"
 base_dir <- "."
 # List the specific file paths within the folder
 file_paths <- c(
