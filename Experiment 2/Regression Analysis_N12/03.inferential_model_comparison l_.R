@@ -1,4 +1,4 @@
-# Authors: Eylul Eski, Luca Onnis
+# Authors: 
 # Date: 2024-10-28
 cdl <- read.csv("combined_data_long.csv") # !! file doesn't exist
 cdl <- readxl::read_excel("combined_data_long_N12.xlsx")
