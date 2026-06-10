@@ -8,7 +8,7 @@ library(car)
 library(readxl)
 
 
-cdl  <- read_excel("N24_all_three.xlsx")
+cdl  <- read_excel("N24_both_ws.xlsx")
 
 
 library(dplyr)
@@ -26,7 +26,7 @@ cdl$target <- factor(cdl$target)
 levels(cdl$round)
 
 #setting up the contrasts for target variable
-cdl$confederate <- factor(cdl$confederate, levels = c("seperated", "clustered", "random_seed"))
+
 (levels(cdl$confederate))
 
 contrasts(cdl$network)
