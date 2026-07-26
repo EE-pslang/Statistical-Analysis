@@ -32,4 +32,3 @@ Experiment 4:
 Reference
 -------------------------
 
-Eski K.E. Syntactic and Lexical Priming in Social Networks: A Complex Contagion Approach to Language Diffusion. University of Genova, 2025.
